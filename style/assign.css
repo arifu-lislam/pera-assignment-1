@@ -214,5 +214,41 @@ footer input[type="email"], footer input[type="text"], footer textarea{
 footer{
 background-color: rgba(78, 71, 255, 0.1);
 margin-top: 10px;
+height: 600px;
   
+}
+/* .footer-logo{ */
+    margin-top: 120px;
+    font-size: 100px;
+    color: #4E47FF;
+    
+}
+.footer-pera{
+    color: #8987A1;
+    font-size: 20px;
+    justify-content: center;
+
+}
+footer nav li{
+    list-style: none;
+
+}
+footer nav a{
+    text-decoration: none;
+    color: #8987A1;
+
+}
+nav ul{
+    display: flex;
+    gap: 48px;
+}
+.footer-last{
+  max-width: 1140px;
+  margin: 0 auto;  
+  justify-content: center;
+    
+    
+}
+.hossena-keno{
+    justify-content: center;
 }
