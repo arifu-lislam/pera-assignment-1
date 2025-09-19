@@ -172,3 +172,47 @@ margin: 0;
 .photo{
     padding: 
 }
+
+/* footer-section */
+.touch-section{
+    display: flex;
+    gap: 0px;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.footer-title{
+    font-size: 75px;
+    font-weight: bold;
+    margin-top: 200px;
+
+}
+.form-title{
+    margin-top: 100px;
+    width: 528px;
+    padding: 10px;
+}
+footer input[type="email"], footer input[type="text"], footer textarea{
+    height: 70px;
+    width: 90%;
+    display: block;
+    color: white;
+    padding: 10px 30px;
+    font-size: 20px;
+}
+.btttn{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 130px;
+    height: 48px;
+    border-style: none; 
+    width: 103%;
+    margin-top: 10px;
+}
+footer{
+background-color: rgba(78, 71, 255, 0.1);
+margin-top: 10px;
+  
+}
